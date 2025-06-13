@@ -1021,7 +1021,7 @@
                     "NO_CALLER_ID": "Arayan ID Yok",
                     "UNKNOWN": "Bilinmiyor",
                     "INCOMING": "Gelen",
-                    "OUTGOING": "Giden",                   
+                    "OUTGOING": "Giden",
                     "IN_CALL": "Görüşmede",
                     "NOT_IN_CALL": "Görüşmede Değil",
                     "SUBSCRIBED": "Abone Olundu",
@@ -1285,23 +1285,23 @@
                 "TITLE": "Duyuru"
             },
             "DISPATCH": {
-            "TITLE": "Sevkiyat",
-            "TOGGLE_EMPLOYEES": "Çalışanları Göster/Gizle",
-            "TOGGLE_ALARMS": "Alarmları Göster/Gizle",
-            "EMPLOYEES": "Çalışanlar",
-            "ALARMS": "Alarmlar",
+                "TITLE": "Sevkiyat",
+                "TOGGLE_EMPLOYEES": "Çalışanları Göster/Gizle",
+                "TOGGLE_ALARMS": "Alarmları Göster/Gizle",
+                "EMPLOYEES": "Çalışanlar",
+                "ALARMS": "Alarmlar",
 
-            "RESPOND": "Yanıtla",
-            "RESPONDED": "Yanıtlandı",
-            "COLLAPSE": "Daralt",
-            "EXPAND": "Genişlet",
-            "DISMISS": "Kapat",
-            "VIEW_IN_TABLET": "Tablette Görüntüle",
-            "SET_WAYPOINT": "Rota Belirle",
-            "OLD_NOTIFICATION": "{count} eski bildirim",
-            "OLD_NOTIFICATIONS": "{count} eski bildirimler",
-            "NEW_NOTIFICATION": "{count} yeni bildirim",
-            "NEW_NOTIFICATIONS": "{count} yeni bildirimler",
+                "RESPOND": "Yanıtla",
+                "RESPONDED": "Yanıtlandı",
+                "COLLAPSE": "Daralt",
+                "EXPAND": "Genişlet",
+                "DISMISS": "Kapat",
+                "VIEW_IN_TABLET": "Tablette Görüntüle",
+                "SET_WAYPOINT": "Rota Belirle",
+                "OLD_NOTIFICATION": "{count} eski bildirim",
+                "OLD_NOTIFICATIONS": "{count} eski bildirimler",
+                "NEW_NOTIFICATION": "{count} yeni bildirim",
+                "NEW_NOTIFICATIONS": "{count} yeni bildirimler",
 
                 "PRIORITY_LEVELS": {
                     "HIGH": "Yüksek",
@@ -1353,7 +1353,7 @@
                     "PASTE_URL": "URL Yapıştır",
                     "PASTE_URL_DESCRIPTION": "Bir resim URL'si girin",
                     "PASTE_URL_PLACEHOLDER": "Resim URL'si",
-                    
+
                     "INVALID_URL": "Geçersiz URL",
                     "INVALID_URL_DESCRIPTION": "Girdiğiniz URL geçerli bir resim URL'si değil",
                     "OK": "Tamam"
@@ -1385,7 +1385,7 @@
                     "TITLE": "Doktoru Kaldır",
                     "DESCRIPTION": "{name} isimli kişiyi rapordan kaldırmak istediğinizden emin misiniz?"
                 },
-                
+
                 "ERROR": {
                     "TITLE": "Hata",
                     "NO_TYPE": "Bir rapor türü seçmelisiniz",

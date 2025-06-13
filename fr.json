@@ -1344,7 +1344,7 @@
                 "NOTES_PLACEHOLDER": "Ajouter des notes...",
                 "DIAGNOSES_DISEASES": "Diagnostics / Maladies",
                 "NO_DIAGNOSES": "Aucun Diagnostics / Maladies",
-                "REPORTS": "Rapports"	,
+                "REPORTS": "Rapports",
                 "NO_REPORTS": "Aucun Rapport",
 
                 "ADD_AVATAR": {
@@ -1536,7 +1536,7 @@
                 "TITLE": "Supprimer le véhicule",
                 "DESCRIPTION": "Êtes-vous sûr de vouloir supprimer ce véhicule ?"
             },
-        
+
             "LICENSES": "Licences",
             "ADD_LICENSE": "Ajouter une licence",
             "DELETE_LICENSE_POPUP": {

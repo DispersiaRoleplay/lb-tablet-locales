@@ -97,7 +97,7 @@
             "OK": "Aceptar",
             "ON": "Activado",
             "OFF": "Desactivado",
-        
+
             "RESET_POPUP": {
                 "TITLE": "Restablecer Tablet",
                 "TEXT": "¿Estás seguro de que deseas restablecer tu tablet? [ESTO ELIMINARÁ TODO]",
@@ -106,7 +106,7 @@
             },
             "UP_TO_DATE": "Tu tablet está actualizada",
             "BLUR_HOMESCREEN": "Difuminar Pantalla de Inicio"
-        },        
+        },
         "NOTES": {
             "TITLE": "Notas",
             "SEARCH_PLACEHOLDER": "Buscar",
@@ -169,7 +169,7 @@
                 "STOP": "Detener",
                 "RESTART": "Reiniciar"
             }
-        },        
+        },
         "CAMERA": {
             "VIDEO": "Vídeo",
             "PHOTO": "Foto",
@@ -271,7 +271,7 @@
             "ALL_PHOTOS": "Todas las Fotos",
             "FAVOURITES": "Favoritos",
             "RECENTS": "Recientes"
-        },        
+        },
         "MAIL": {
             "TITLE": "Correo",
             "YOU": "Tú",
@@ -334,27 +334,27 @@
                 "DESCRIPTION": "No puedes guardar una grabación sin audio",
                 "OK": "Aceptar"
             }
-        },        
+        },
         "SERVICES": {
             "ACTIONS": "Acciones",
             "COMPANIES": "Empresas",
             "MESSAGES": "Mensajes",
             "SETTINGS": "Configuraciones",
-        
+
             "CLOSED": "Cerrado",
             "YOUR_MESSAGES": "Tus Mensajes",
             "JOB_MESSAGES": "Mensajes de Trabajo",
-        
+
             "DUTY": "De Servicio",
             "DUTY_DESCRIPTION": "Alterna tu estado de servicio",
             "GO_ON_DUTY": "Entrar en Servicio",
             "GO_OFF_DUTY": "Salir de Servicio",
             "JOB_CALLS": "Llamadas de Trabajo",
             "JOB_CALLS_DESCRIPTION": "{toggle} recibir llamadas de los clientes.",
-        
+
             "ENABLE": "Habilitar",
             "DISABLE": "Deshabilitar",
-        
+
             "DISABLE_CALLS": "Deshabilitar Llamadas",
             "ENABLE_CALLS": "Habilitar Llamadas",
             "BALANCE": "Saldo",
@@ -362,14 +362,14 @@
             "HIRE": "Contratar",
             "SET_GRADE": "Establecer Grado",
             "UNEMPLOYED": "Estás desempleado",
-        
+
             "ALL": "Todos",
             "AVAILABLE": "Disponible",
             "SEARCH_EMPLOYEES": "Buscar Empleados",
-        
+
             "PERSONAL": "Personal",
             "JOB": "Trabajo",
-        
+
             "DEPOSIT_POPUP": {
                 "TITLE": "Depósito",
                 "DESCRIPTION": "Depositar dinero en la cuenta de la empresa",
@@ -399,7 +399,7 @@
                 "CANCEL": "Cancelar",
                 "PROCEED": "Proceder"
             }
-        },        
+        },
         "POLICE": {
             "CANCEL": "Cancelar",
             "CLOSE": "Cerrar",
@@ -454,25 +454,25 @@
                 "TOGGLE_ALARMS": "Activar/Desactivar Alarmas",
                 "OFFICERS": "Oficiales",
                 "ALARMS": "Alarmas",
-            
+
                 "RESPOND": "Responder",
                 "COLLAPSE": "Colapsar",
                 "EXPAND": "Expandir",
                 "DISMISS": "Descartar",
                 "VIEW_IN_TABLET": "Ver en Tablet",
                 "SET_WAYPOINT": "Establecer Punto de Ruta",
-            
+
                 "PRIORITY": {
                     "HIGH": "Alta",
                     "MEDIUM": "Media",
                     "LOW": "Baja"
                 },
-            
+
                 "JUST_NOW": "Justo ahora",
                 "MINUTES_AGO": "Hace {minutes}m",
                 "HOURS_AGO": "Hace {hours}h"
             },
-            
+
             "PROFILES": {
                 "TITLE": "Perfil",
                 "PERSON": "Persona",
@@ -486,7 +486,7 @@
                 "FEMALE": "Femenino",
                 "NOTES": "Notas",
                 "NOTES_PLACEHOLDER": "Introduce notas aquí...",
-            
+
                 "LICENSES": {
                     "TITLE": "Licencias",
                     "ADD_LICENSE": "Añadir Licencia",
@@ -499,19 +499,19 @@
                         "REVOKE": "Revocar"
                     }
                 },
-            
+
                 "ADD_AVATAR": {
                     "TITLE": "Añadir Avatar",
                     "SET_PHOTO": "Establecer Foto",
                     "PASTE_URL": "Pegar URL",
                     "PASTE_URL_DESCRIPTION": "Introduce una URL de una imagen",
                     "PASTE_URL_PLACEHOLDER": "URL de Imagen",
-            
+
                     "INVALID_URL": "URL Inválida",
                     "INVALID_URL_DESCRIPTION": "La URL que introdujiste no es válida para una imagen",
                     "OK": "OK"
                 },
-            
+
                 "VEHICLES": "Vehículos",
                 "NO_VEHICLES": "Sin Vehículos",
                 "PROPERTIES": "Propiedades",
@@ -520,7 +520,7 @@
                 "NO_REPORTS": "Sin Reportes",
                 "CASES": "Casos",
                 "NO_CASES": "Sin Casos"
-            },           
+            },
 
             "VEHICLES": {
                 "TITLE": "Vehículos",
@@ -528,14 +528,14 @@
                 "SEARCH": "Buscar Vehículos",
                 "REMOVE_PICTURE": "Eliminar Imagen",
                 "DETAILS": "Detalles",
-            
+
                 "ADD_PHOTO": {
                     "TITLE": "Añadir Foto",
                     "SELECT_PHOTO": "Seleccionar Foto",
                     "PASTE_URL": "Pegar URL",
                     "PASTE_URL_DESCRIPTION": "Introduce una URL de una imagen",
                     "PASTE_URL_PLACEHOLDER": "URL de Imagen",
-            
+
                     "INVALID_URL": "URL Inválida",
                     "INVALID_URL_DESCRIPTION": "La URL que introdujiste no es válida para una imagen",
                     "OK": "OK"
@@ -554,7 +554,7 @@
                 "CASES": "Casos",
                 "NO_CASES": "Sin Casos"
             },
-            
+
             "REPORTS": {
                 "TITLE": "Reportes",
                 "REPORT": "Reporte",
@@ -584,14 +584,14 @@
                     "TITLE": "Eliminar Sospechoso",
                     "DESCRIPTION": "¿Estás seguro de que deseas eliminar a {name} del reporte?"
                 },
-            
+
                 "ERROR": {
                     "TITLE": "Error",
                     "NO_TYPE": "Debes seleccionar un tipo de reporte",
                     "TITLE_LENGTH": "El título debe tener al menos 3 caracteres",
                     "DESCRIPTION_LENGTH": "La descripción debe tener al menos 10 caracteres"
                 }
-            },            
+            },
 
             "CASES": {
                 "TITLE": "Casos",
@@ -632,7 +632,7 @@
                 "RECOMMENDED_SENTENCE": "Sentencia Recomendada (en meses)",
                 "FINE": "Multa ({currency})",
                 "SENTENCE": "Sentencia (en meses)",
-            
+
                 "ERROR": {
                     "TITLE": "Error",
                     "TITLE_LENGTH": "El título debe tener al menos 3 caracteres",
@@ -640,11 +640,11 @@
                     "OK": "OK"
                 }
             },
-            
+
             "WARRANTS": {
                 "TITLE": "Órdenes de Arresto",
                 "SEARCH": "Buscar Órdenes de Arresto",
-            
+
                 "HIGH_PRIORITY": "Alta Prioridad",
                 "MEDIUM_PRIORITY": "Media Prioridad",
                 "LOW_PRIORITY": "Baja Prioridad",
@@ -671,13 +671,13 @@
                     "OK": "OK"
                 }
             },
-            
+
             "OFFENCES": {
                 "TITLE": "Delitos",
                 "SEARCH": "Buscar Delitos",
                 "MONTHS": "{amount} Meses",
                 "FINE": "{amount} Multa",
-            
+
                 "SELECT_SEVERITY": "Seleccionar Gravedad",
                 "SEVERITIES": {
                     "INFRACTION": "Infracción",
@@ -701,7 +701,7 @@
                     "DESCRIPTION": "Establece el monto de multa recomendado para el delito",
                     "PLACEHOLDER": "Monto de multa recomendado (0 para solo tiempo de cárcel)"
                 },
-            
+
                 "DELETE_OFFENCE": {
                     "TITLE": "Eliminar Delito",
                     "DESCRIPTION": "¿Estás seguro de que deseas eliminar este delito?"
@@ -716,11 +716,11 @@
                     "DESCRIPTION": "¿Estás seguro de que deseas eliminar esta categoría?"
                 }
             },
-            
+
             "EMPLOYEES": {
                 "TITLE": "Empleados",
                 "SEARCH": "Buscar Empleados"
-            },            
+            },
 
             "CHAT": {
                 "TITLE": "Chat",
@@ -773,7 +773,7 @@
                     "KICKED": "Has expulsado a {name} de la sala de chat"
                 }
             },
-            
+
             "PHONE": {
                 "TITLE": "Teléfono",
                 "TRIANGULATE": "Triangular",
@@ -781,7 +781,7 @@
                 "CALLS": "Llamadas",
                 "UNLOCK": "Desbloquear"
             },
-            
+
             "JAIL": {
                 "TITLE": "Cárcel",
                 "SEARCH": "Buscar Persona Presa",
@@ -824,7 +824,7 @@
                     "MISSING_DETAILS": "Debes ingresar una sentencia y razón"
                 }
             },
-            
+
             "LOGS": {
                 "TITLE": "Registros",
                 "SEARCH": "Buscar Registros",
@@ -872,7 +872,7 @@
                 "CREATE_CASE_DESCRIPTION": "Creó un caso con el título \"{title}\"",
                 "UPDATE_CASE_TITLE": "Actualizó un caso",
                 "UPDATE_CASE_DESCRIPTION": "Actualizó el caso con el título \"{title}\""
-            },            
+            },
 
             "TAGS": {
                 "TITLE": "Etiquetas",
@@ -915,11 +915,11 @@
                     "CANCEL": "Cancelar",
                     "PROCEED": "Continuar"
                 }
-            }            
+            }
         },
         "AMBULANCE": {
             "TITLE": "Ambulancia",
-        
+
             "SEARCH": "Buscar",
             "CANCEL": "Cancelar",
             "CLOSE": "Cerrar",
@@ -933,15 +933,15 @@
             "OK": "Aceptar",
             "ADD": "Agregar",
             "NEW": "Nuevo",
-        
+
             "SEARCH_FOR": "Busca {query} para comenzar",
             "NO_RESULTS_FOR": "No se encontraron resultados para '{query}'",
             "CLEAR_HISTORY": "Borrar Historial",
-        
+
             "HOME": {
                 "TITLE": "Inicio",
                 "CREATE": "Crear",
-        
+
                 "RECENT_REPORTS": "Informes Recientes",
                 "REPORT_FOOTER": "{timestamp} - {author}",
                 "BULLETIN_BOARD": "Tablero de Anuncios",
@@ -965,32 +965,32 @@
                 },
                 "ACTIVE_UNITS": "Unidades Activas"
             },
-        
+
             "DISPATCH": {
                 "TITLE": "Despacho",
                 "TOGGLE_EMPLOYEES": "Alternar Empleados",
                 "TOGGLE_ALARMS": "Alternar Alarmas",
                 "EMPLOYEES": "Empleados",
                 "ALARMS": "Alarmas",
-        
+
                 "RESPOND": "Responder",
                 "COLLAPSE": "Colapsar",
                 "EXPAND": "Expandir",
                 "DISMISS": "Descartar",
                 "VIEW_IN_TABLET": "Ver en Tablet",
                 "SET_WAYPOINT": "Establecer Punto de Referencia",
-        
+
                 "PRIORITY": {
                     "HIGH": "Alta",
                     "MEDIUM": "Media",
                     "LOW": "Baja"
                 },
-        
+
                 "JUST_NOW": "Hace un momento",
                 "MINUTES_AGO": "Hace {minutes}m",
                 "HOURS_AGO": "Hace {hours}h"
             },
-        
+
             "JOURNALS": {
                 "TITLE": "Registros",
                 "PROFILES": "Perfiles",
@@ -1012,20 +1012,20 @@
                 "NO_DIAGNOSES": "Sin Diagnósticos / Enfermedades",
                 "REPORTS": "Informes",
                 "NO_REPORTS": "Sin Informes",
-        
+
                 "ADD_AVATAR": {
                     "TITLE": "Agregar Avatar",
                     "SET_PHOTO": "Establecer Foto",
                     "PASTE_URL": "Pegar URL",
                     "PASTE_URL_DESCRIPTION": "Ingresa una URL de una imagen",
                     "PASTE_URL_PLACEHOLDER": "URL de la Imagen",
-        
+
                     "INVALID_URL": "URL inválida",
                     "INVALID_URL_DESCRIPTION": "La URL ingresada no es una URL válida de imagen",
                     "OK": "Aceptar"
                 }
             },
-        
+
             "REPORTS": {
                 "TITLE": "Informes",
                 "REPORT": "Informe",
@@ -1042,7 +1042,7 @@
                 "DOCTORS_INVOLVED": "Médicos Involucrados",
                 "NO_DOCTORS_INVOLVED": "Sin Médicos Involucrados",
                 "ADD_PATIENT": "Agregar Paciente",
-        
+
                 "REMOVE_INJURY": {
                     "TITLE": "Eliminar Lesión",
                     "DESCRIPTION": "¿Estás seguro de que deseas eliminar la lesión del informe?"
@@ -1051,7 +1051,7 @@
                     "TITLE": "Eliminar Médico",
                     "DESCRIPTION": "¿Estás seguro de que deseas eliminar a {name} del informe?"
                 },
-        
+
                 "ERROR": {
                     "TITLE": "Error",
                     "NO_TYPE": "Debes seleccionar un tipo de informe",
@@ -1059,12 +1059,12 @@
                     "DESCRIPTION_LENGTH": "La descripción debe tener al menos 10 caracteres"
                 }
             },
-        
+
             "EMPLOYEES": {
                 "TITLE": "Empleados",
                 "SEARCH": "Buscar Empleados"
             },
-        
+
             "CHAT": {
                 "TITLE": "Chat",
                 "SEARCH": "Buscar Chats",
@@ -1086,7 +1086,7 @@
                     "TITLE": "Expulsar",
                     "DESCRIPTION": "¿Estás seguro de que deseas expulsar a {name} de la sala de chat?"
                 },
-        
+
                 "CREATE_CHATROOM": {
                     "TITLE": "Crear Sala de Chat",
                     "DESCRIPTION": "Ingresa un nombre para la sala de chat",
@@ -1117,12 +1117,12 @@
                     "KICKED": "Has expulsado a {name} de la sala de chat"
                 }
             },
-        
+
             "CONDITIONS": {
                 "TITLE": "Condiciones",
                 "CONDITION": "Condición",
                 "SEARCH": "Buscar Condiciones",
-        
+
                 "SELECT_SEVERITY": "Seleccionar Severidad",
                 "SEVERITIES": {
                     "MINOR": "Menor",
@@ -1150,12 +1150,12 @@
                     "DESCRIPTION": "¿Estás seguro de que deseas eliminar esta categoría?"
                 }
             }
-        },        
+        },
         "BROWSER": {
             "TITLE": "Navegador",
             "SEARCH_PLACEHOLDER": "Buscar o escribir URL",
             "FAILED_LOAD_PAGE": "Error al cargar la página, ¿quizás no admite iframes?"
-        }        
+        }
     },
     "COMPONENTS": {
         "CONTEXT_MENU": {
@@ -1219,7 +1219,7 @@
         "COLOR_PICKER": {
             "COLOR": "Color"
         }
-    },    
+    },
     "SETUP": {
         "HELLO": "Hola",
         "SELECT_LANGUAGE": "Selecciona tu idioma",
@@ -1250,7 +1250,7 @@
             "DESCRIPTION": "Estás intentando realizar una acción que requiere acceso a internet, desactiva el modo avión para continuar.",
             "OK": "OK"
         }
-    },    
+    },
     "BACKEND": {
         "CAMERA": {
             "TAKE_PHOTO": "{key} Capturar",
@@ -1410,5 +1410,5 @@
                 }
             }
         }
-    }    
+    }
 }

@@ -108,7 +108,7 @@
             "BLUR_HOMESCREEN": "Desfocar Tela Inicial"
         },
 
-       "NOTES": {
+        "NOTES": {
             "TITLE": "Notas",
             "SEARCH_PLACEHOLDER": "Pesquisar",
             "FOOTER": "{amount} Notas",
@@ -128,24 +128,24 @@
                 "LOCAL_TIME": "Hora Local",
                 "HRS": "{time} hrs"
             },
-        "ALARM": {
-            "TITLE": "Alarme",
-            "ADD": "Adicionar Alarme",
-            "CANCEL": "Cancelar",
-            "EDIT": "Editar",
-            "DONE": "Concluído",
-            "SAVE": "Salvar",
-            "LABEL": "Etiqueta",
-            "SOUND": "Som",
-            "SNOOZE": "Soneca",
-            "DELETE_TITLE": "Excluir Alarme",
-            "DELETE_TEXT": "Tem certeza de que deseja excluir este alarme?",
-            "BUTTON_CANCEL": "Cancelar",
-            "BUTTON_DELETE": "Excluir",
-            "ALARMS": "Alarmes",
-            "NEW_ALARM": "Novo Alarme",
-            "EDIT_ALARM": "Editar Alarme"
-        },
+            "ALARM": {
+                "TITLE": "Alarme",
+                "ADD": "Adicionar Alarme",
+                "CANCEL": "Cancelar",
+                "EDIT": "Editar",
+                "DONE": "Concluído",
+                "SAVE": "Salvar",
+                "LABEL": "Etiqueta",
+                "SOUND": "Som",
+                "SNOOZE": "Soneca",
+                "DELETE_TITLE": "Excluir Alarme",
+                "DELETE_TEXT": "Tem certeza de que deseja excluir este alarme?",
+                "BUTTON_CANCEL": "Cancelar",
+                "BUTTON_DELETE": "Excluir",
+                "ALARMS": "Alarmes",
+                "NEW_ALARM": "Novo Alarme",
+                "EDIT_ALARM": "Editar Alarme"
+            },
             "STOPWATCH": {
                 "TITLE": "Cronômetro",
                 "START": "Iniciar",
@@ -511,7 +511,7 @@
                     "PASTE_URL": "Colar URL",
                     "PASTE_URL_DESCRIPTION": "Digite uma URL para uma imagem",
                     "PASTE_URL_PLACEHOLDER": "URL da Imagem",
-            
+
                     "INVALID_URL": "URL Inválida",
                     "INVALID_URL_DESCRIPTION": "A URL digitada não é válida",
                     "OK": "OK"
@@ -540,7 +540,7 @@
                     "PASTE_URL": "Colar URL",
                     "PASTE_URL_DESCRIPTION": "Digite uma URL para uma imagem",
                     "PASTE_URL_PLACEHOLDER": "URL da Imagem",
-            
+
                     "INVALID_URL": "URL Inválida",
                     "INVALID_URL_DESCRIPTION": "A URL digitada não é uma URL de imagem válida",
                     "OK": "OK"
@@ -647,7 +647,7 @@
             "WARRANTS": {
                 "TITLE": "Mandados",
                 "SEARCH": "Pesquisar Mandados",
-            
+
                 "HIGH_PRIORITY": "Alta Prioridade",
                 "MEDIUM_PRIORITY": "Média Prioridade",
                 "LOW_PRIORITY": "Baixa Prioridade",
@@ -707,7 +707,7 @@
 
                 "DELETE_OFFENCE": {
                     "TITLE": "Excluir Infração",
-                    "DESCRIPTION": "Tem certeza de que deseja excluir esta infração?"            
+                    "DESCRIPTION": "Tem certeza de que deseja excluir esta infração?"
                 },
                 "ADD_CATEGORY": {
                     "TITLE": "Adicionar Categoria",

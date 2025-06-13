@@ -1448,7 +1448,6 @@
                 "SENDER": "Systém",
                 "SUBJECT": "Vaše heslo",
                 "MESSAGE": "Ahoj,\n\nVaše automatická emailová adresa je {address} a vaše heslo je {password}"
-
             }
         },
         "LOGS": {

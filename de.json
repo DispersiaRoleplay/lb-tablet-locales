@@ -672,7 +672,7 @@
                     "PASTE_URL": "URL einfügen",
                     "PASTE_URL_DESCRIPTION": "Geben Sie eine URL zu einem Bild ein",
                     "PASTE_URL_PLACEHOLDER": "Bild-URL",
-            
+
                     "INVALID_URL": "Ungültige URL",
                     "INVALID_URL_DESCRIPTION": "Die eingegebene URL ist keine gültige Bild-URL",
                     "OK": "OK"
