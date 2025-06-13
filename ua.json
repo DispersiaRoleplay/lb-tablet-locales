@@ -439,6 +439,7 @@
             "YES": "Так",
             "NO": "Ні",
             "ALL": "Всі",
+            "ADD_TAB": "Add Tab",
 
             "SEARCH": "Пошук",
             "SEARCH_FOR": "Шукайте {query} щоб розпочати",
@@ -456,32 +457,42 @@
                 "UNPIN": "Відкріпити",
                 "SEARCH_BULLETIN": "Пошук оголошення",
                 "SEARCH_UNITS": "Пошук Юніта",
-                "ADD_BULLETIN": {
-                    "TITLE": "Додати оголошення",
-                    "DESCRIPTION": "Створити нове оголошення",
-                    "PLACEHOLDER": "Заголовок",
-                    "CONTENT": "Зміст",
-                    "CANCEL": "Скасувати",
-                    "PROCEED": "Продовжити"
-                },
                 "DELETE_BULLETIN": {
                     "TITLE": "Видалити оголошення",
                     "DESCRIPTION": "Ви впевненні що хочете видалити оголошення?",
-                    "CANCEL": "Скасувати",
-                    "DELETE": "Видалити"
+                    "CANCEL": "Cancel",
+                    "DELETE": "Delete"
                 },
                 "RECENT_WARRANTS": "Активні розшуки",
                 "ACTIVE_UNITS": "Активні Юніти"
             },
+            "BULLETIN": {
+                "TITLE": "Оголошення",
+                "LABEL": "Дошка оголошень",
+                "SEARCH": "Пошук оголошень",
+                "SEARCH_PLACEHOLDER": "Пошук оголошень",
+                "SEARCH_FOR": "Знайдіть '{query}', щоб розпочати",
+                "NO_RESULTS_FOR": "Не знайдено результатів за запитом '{query}'",
+                "NEW_BULLETIN": "Нове оголошення",
+
+                "DELETE_BULLETIN": {
+                    "TITLE": "Видалити оголошення",
+                    "DESCRIPTION": "Ви впевнені, що хочете видалити це оголошення?"
+                }
+            },
 
             "DISPATCH": {
                 "TITLE": "Диспетчер",
+                "SEARCH_ALARMS": "Пошук сповіщень",
                 "SHOW_OFFICERS": "Показати офіцерів",
                 "SHOW_EMPLOYEES": "Показати працівників",
                 "SHOW_ALARMS": "Показати сповіщення",
+                "SHOW_POPUPS": "Показати спливаючі вікна",
                 "OPTIONS": "Налаштування",
                 "OFFICERS": "Офіцери",
                 "ALARMS": "Сповіщення",
+                "MAP": "Карта",
+                "LIST": "Список",
 
                 "RESPOND": "Відповісти",
                 "RESPONDED": "Відповіли",
@@ -497,11 +508,21 @@
                 "NEW_NOTIFICATION": "{count} нове сповіщення",
                 "NEW_NOTIFICATIONS": "{count} нових сповіщень",
 
-                "PRIORITY": {
+                "PRIORITY_LEVELS": {
                     "HIGH": "Високий",
                     "MEDIUM": "Середній",
                     "LOW": "Низький"
                 },
+                "PRIORITY": "Пріоритет",
+                "TIME": "Час",
+                "CODE": "Код",
+                "LOCATION": "Місцезнаходження",
+                "RESPONDERS": "Реагувальники",
+                "ACTIONS": "Дії",
+                "NONE": "Немає",
+                "REMOVE": "Видалити",
+                "REMOVE_ALL": "Видалити все",
+                "VIEW": "Переглянути",
 
                 "JUST_NOW": "Щойно",
                 "MINUTES_AGO": "{minutes}хв тому",
@@ -512,8 +533,37 @@
                     "CANCEL": "Скасувати",
                     "REMOVE": "Видалити"
                 },
+                "REMOVE_ALL_ALARMS": {
+                    "TITLE": "Видалити всі сповіщення",
+                    "DESCRIPTION": "Ви впевнені, що хочете видалити всі сповіщення? (Це також видалить диспетчерські повідомлення для всіх працівників)"
+                },
+
                 "REMOVE_FOR_YOURSELF": "Видалити для себе",
                 "REMOVE_FOR_EVERYONE": "Видалити для всіх"
+            },
+            "UNITS": {
+                "TITLE": "Підрозділи",
+                "AVALIABLE_OFFICERS": "Доступні офіцери",
+                "SEARCH_OFFICERS": "Пошук офіцерів",
+                "DROP_OFFICER": "Перетягніть офіцера сюди",
+                "DROP_OFFICER_AVAILABLE": "Перетягніть офіцера сюди, щоб зробити доступним",
+                "OFFICER": "Офіцер",
+                "OFFICERS": "Офіцери",
+                "NO_UNITS": "Додайте підрозділ, щоб почати",
+                "ADD_UNIT": {
+                    "TITLE": "Додати підрозділ",
+                    "DESCRIPTION": "Створити новий підрозділ",
+                    "PLACEHOLDER": "Назва підрозділу"
+                },
+                "RENAME_UNIT": {
+                    "TITLE": "Перейменувати підрозділ",
+                    "DESCRIPTION": "Змінити назву підрозділу",
+                    "PLACEHOLDER": "Назва підрозділу"
+                },
+                "DELETE_UNIT": {
+                    "TITLE": "Видалити підрозділ",
+                    "DESCRIPTION": "Ви впевнені, що хочете видалити цей підрозділ?"
+                }
             },
 
             "PROFILES": {
@@ -730,9 +780,17 @@
                 "OPEN_STASH": "Відкрити сховище",
                 "VEHICLES_INVOLVED": "Задіяні транспортні засоби",
                 "NO_VEHICLES_INVOLVED": "Транспортні засоби не задіяні",
+                "VIEW_PROFILE": "Переглянути профіль",
+                "CHARGES": "{amount} звинувачень",
+                "NO_CHARGES": "Немає звинувачень",
                 "REMOVE_VEHICLE": {
                     "TITLE": "Видалити Т/З",
                     "DESCRIPTION": "Ви впевненні що хочете видалити Т/З зі справи"
+                },
+
+                "REMOVE_WARRANT": {
+                    "TITLE": "Видалити ордер",
+                    "DESCRIPTION": "Ви впевнені, що хочете видалити ордер з цієї справи?"
                 },
                 "OFFICERS_INVOLVED": "Задіяні офіцери",
                 "NO_OFFICERS_INVOLVED": "Офіцери не задіяні",
@@ -754,8 +812,6 @@
                 },
                 "ADD_CHARGE": "Додати обвинувачення",
                 "FINE": "Штраф ({amount} рекомендовано)",
-                "RECOMMENDED_FINE": "Рекомендований штраф ({currency})",
-                "RECOMMENDED_SENTENCE": "Рекомендований термін (у місяцях)",
                 "SENTENCE": "Термін ув’язнення ({amount} місяців рекомендовано)",
                 "SEND_FINE": {
                     "TITLE": "Накласти штраф",
@@ -820,6 +876,9 @@
                     "NO_TARGET": "Ви повинні обрати ціль розшуку",
                     "OK": "OK"
                 }
+            },
+            "EVIDENCE": {
+                "TITLE": "Докази"
             },
 
             "OFFENCES": {
@@ -938,10 +997,90 @@
 
             "PHONE": {
                 "TITLE": "Телефон",
-                "TRIANGULATE": "Триангуляція",
                 "MESSAGES": "Повідомлення",
-                "CALLS": "Дзвінки",
-                "UNLOCK": "Розблокувати"
+
+                "TRIANGULATE": {
+                    "TITLE": "Тріангуляція",
+                    "DESCRIPTION": "Введіть номер телефону, який хочете знайти",
+                    "PLACEHOLDER": "Номер телефону",
+
+                    "SUCCESS": {
+                        "TITLE": "Успішна тріангуляція",
+                        "DESCRIPTION": "Номер телефону, який ви шукаєте, зареєстрований на стільниковій вежі в цьому районі. Перевірте карту, щоб побачити місцезнаходження."
+                    },
+                    "FAILED": {
+                        "TITLE": "Не вдалося знайти",
+                        "DESCRIPTION": "Номер телефону, який ви шукаєте, не зареєстрований на жодній стільниковій вежі поблизу."
+                    }
+                },
+                "CALLS": {
+                    "TITLE": "Дзвінки",
+                    "CALL_HISTORY": "Історія дзвінків",
+                    "CALL_STATUS": "Статус дзвінка",
+                    "SEARCH": "Пошук дзвінків",
+                    "NO_CALLER_ID": "Без ідентифікатора",
+                    "UNKNOWN": "Невідомо",
+                    "INCOMING": "Вхідний",
+                    "OUTGOING": "Вихідний",
+                    "IN_CALL": "У розмові",
+                    "NOT_IN_CALL": "Не в розмові",
+                    "SUBSCRIBED": "Підписано",
+                    "NOT_SUBSCRIBED": "Не підписано",
+                    "YES": "Так",
+                    "NO": "Ні",
+                    "GET_NOTIFIED": "Отримувати сповіщення",
+                    "LISTEN_TO_CALL": "Прослухати дзвінок",
+                    "LISTEN_TO_CALL_DESCRIPTION": "Ви впевнені, що хочете прослухати цей дзвінок?",
+                    "STOP_LISTENING": "Зупинити прослуховування",
+                    "STOP_LISTENING_DESCRIPTION": "Ви впевнені, що хочете припинити прослуховування цього дзвінка?",
+                    "SUBSCRIBE_TO_CALLS": "Підписатися на дзвінки",
+                    "SUBSCRIBE_TO_CALLS_DESCRIPTION": "Ви впевнені, що хочете підписатися на дзвінки?",
+                    "UNSUBSCRIBE_FROM_CALLS": "Відписатися від дзвінків",
+                    "UNSUBSCRIBE_FROM_CALLS_DESCRIPTION": "Ви впевнені, що хочете відписатися від дзвінків?",
+                    "FOOTER": "від {name}",
+
+                    "WIRETAP_PHONENUMBER": {
+                        "TITLE": "Перехоплення номера",
+                        "DESCRIPTION": "Введіть номер телефону, який хочете прослуховувати",
+                        "PLACEHOLDER": "Номер телефону"
+                    },
+                    "REMOVE_WIRETAP": {
+                        "TITLE": "Видалити перехоплення",
+                        "DESCRIPTION": "Ви впевнені, що хочете припинити прослуховування номера {phoneNumber}?"
+                    },
+
+                    "CALL_ENDED": {
+                        "TITLE": "Дзвінок завершено",
+                        "DESCRIPTION": "Прослуховуваний дзвінок завершено."
+                    }
+                },
+                "UNLOCK": {
+                    "TITLE": "Розблокування",
+                    "NO_PHONES": "У вашому інвентарі немає телефонів",
+                    "SEARCH": "Пошук телефону",
+                    "SELECT_PHONE": "Оберіть телефон",
+                    "PHONE": "Телефон",
+                    "PROCESSED": "Оброблено",
+                    "PROCESSING": "Обробка",
+                    "LOCKED": "Заблоковано",
+                    "PROCESS_PHONE": "Обробити телефон",
+                    "PHONE_PROCESSED": "Телефон оброблено",
+                    "REMAINING_TIME": "Залишилось: {time}",
+                    "PROCESSING_PHONE": "Обробка {phone}...",
+                    "ATTEMPTS": "Спроби: {attempts}/{maxAttempts}",
+                    "RESET_PIN": {
+                        "TITLE": "Скидання PIN-коду",
+                        "SUCCESS": "PIN-код телефону успішно скинуто."
+                    },
+                    "SUCCESS": {
+                        "TITLE": "Телефон оброблено",
+                        "DESCRIPTION": "Телефон успішно оброблено."
+                    },
+                    "FAILED": {
+                        "TITLE": "Помилка обробки телефону",
+                        "DESCRIPTION": "Не вдалося обробити телефон. Спробуйте ще раз."
+                    }
+                }
             },
 
             "JAIL": {
@@ -1031,6 +1170,8 @@
                 "UNPINNED_BULLETIN_DESCRIPTION": "Відкріплено оголошення з індетифікатором {id}",
                 "CREATE_BULLETIN_TITLE": "Створено оголошення",
                 "CREATE_BULLETIN_DESCRIPTION": "Створено оголошення із заголовком \"{title}\"",
+                "UPDATE_BULLETIN_TITLE": "Оголошення оновлено",
+                "UPDATE_BULLETIN_DESCRIPTION": "Оголошення з назвою \"{title}\" було оновлено",
                 "DELETE_BULLETIN_TITLE": "Видалено оголошення",
                 "DELETE_BULLETIN_DESCRIPTION": "Видалено оголошення з індетифікатором {id}",
                 "CREATE_WARRANT_TITLE": "Подано в розшук",
@@ -1084,7 +1225,11 @@
                     "TITLE": "Жетон/позивний",
                     "DESCRIPTION": "Введіть жетон/позивний",
                     "CANCEL": "Скасувати",
-                    "PROCEED": "Продовжити"
+                    "PROCEED": "Продовжити",
+                    "ERROR": {
+                        "TITLE": "Помилка",
+                        "DESCRIPTION": "Введений вами позивний не відповідає необхідному формату ({format}). Будь ласка, спробуйте ще раз."
+                    }
                 }
             }
         },
@@ -1136,7 +1281,9 @@
                 },
                 "ACTIVE_UNITS": "Активні Юніти"
             },
-
+            "BULLETIN": {
+                "TITLE": "Бюлетень"
+            },
             "DISPATCH": {
                 "TITLE": "Диспетчер",
                 "TOGGLE_EMPLOYEES": "Перемкнути співробітників",
@@ -1156,7 +1303,7 @@
                 "NEW_NOTIFICATION": "{count} нове сповіщення",
                 "NEW_NOTIFICATIONS": "{count} нових сповіщення",
 
-                "PRIORITY": {
+                "PRIORITY_LEVELS": {
                     "HIGH": "Високий",
                     "MEDIUM": "Середній",
                     "LOW": "Низький"
@@ -1165,6 +1312,15 @@
                 "JUST_NOW": "Щойно",
                 "MINUTES_AGO": "{minutes}хв тому",
                 "HOURS_AGO": "{hours}г тому"
+            },
+            "UNITS": {
+                "TITLE": "Підрозділи",
+                "EMPLOYEE": "Працівник",
+                "EMPLOYEES": "Працівники",
+                "AVALIABLE_EMPLOYEES": "Доступні працівники",
+                "SEARCH_EMPLOYEES": "Пошук працівників",
+                "DROP_EMPLOYEE": "Перетягніть працівника",
+                "DROP_EMPLOYEE_AVAILABLE": "Перетягніть працівника сюди, щоб зробити його доступним"
             },
 
             "JOURNALS": {
@@ -1540,6 +1696,87 @@
             "TOOK_VIDEO": "Знято відео",
             "NEW_DISPATCH": "Нове сповіщення: {title}"
         },
+        "BASE_DISPATCH": {
+            "VEHICLE_CLASSES": {
+                "0": "compact",
+                "1": "sedan",
+                "2": "SUV",
+                "3": "coupe",
+                "4": "muscle car",
+                "5": "sports classic",
+                "6": "sports car",
+                "7": "supercar",
+                "8": "motorcycle",
+                "9": "off-road vehicle",
+                "10": "industrial vehicle",
+                "11": "utility vehicle",
+                "12": "van",
+                "13": "bicycle",
+                "14": "boat",
+                "15": "helicopter",
+                "16": "plane",
+                "17": "service vehicle",
+                "18": "emergency vehicle",
+                "19": "military vehicle",
+                "20": "commercial vehicle",
+                "21": "train",
+                "22": "open-wheel car"
+            },
+            "VEHICLE_DATA": {
+                "BODY_TYPE": "Тип кузова",
+                "MANUFACTURER": "Виробник",
+                "MODEL": "Модель",
+                "COLOR": "Колір",
+                "PLATE": "Номерний знак"
+            },
+            "VEHICLE_THEFT": {
+                "CODE": "10-31",
+                "TITLE": "Крадіжка авто – {plate}",
+                "DESCRIPTION": "{gender_lower} помічено під час викрадення {color_lower} {class} {manufacturer} {model} з номером {plate}."
+            },
+            "VEHICLE_JACKING": {
+                "CODE": "10-31",
+                "TITLE": "Викрадення з водієм – {plate}",
+                "DESCRIPTION": "{gender_lower} помічено під час насильницького викрадення {color_lower} {class} {manufacturer} {model} з номером {plate}."
+            },
+            "WEAPON_TYPES": {
+                "DIGISCANNER": "Сканер",
+                "FIREEXTINGUISHER": "Вогнегасник",
+                "HACKINGDEVICE": "Пристрій злому",
+                "HEAVY": "Тяжка зброя",
+                "MELEE": "Ближній бій",
+                "METALDETECTOR": "Металошукач",
+                "MG": "Кулемет",
+                "NIGHTVISION": "Пристрій нічного бачення",
+                "PARACHUTE": "Парашут",
+                "PETROLCAN": "Каністра з пальним",
+                "PISTOL": "Пістолет",
+                "RIFLE": "Гвинтівка",
+                "SHOTGUN": "Дробовик",
+                "SMG": "Пістолет-кулемет",
+                "SNIPER": "Снайперська гвинтівка",
+                "STUNGUN": "Електрошокер",
+                "THROWN": "Метальна зброя",
+                "TRANQILIZER": "Транквілізатор",
+                "UNARMED": "Без зброї",
+                "UNKNOWN": "Вогнепальна зброя"
+            },
+            "GUNSHOT": {
+                "CODE": "10-31",
+                "TITLE": "Постріли – {location}",
+                "DESCRIPTION": "{gender_lower} помічено під час стрільби з {weapon_type_lower} у районі {location}."
+            },
+            "EXPLOSION": {
+                "TITLE": "Вибух",
+                "DESCRIPTION": "У районі {location} було чутно вибух.",
+                "CODE": "10-31"
+            },
+            "ARMED": {
+                "TITLE": "Озброєний(а) {gender}",
+                "DESCRIPTION": "{gender_lower} помічено з {weapon_type_lower} у районі {location}.",
+                "CODE": "10-31"
+            }
+        },
         "POLICE": {
             "EVIDENCE_LABEL": "Доказ: Справа {id}",
             "NEW_BULLETIN_NOTIFICATION": {
@@ -1591,6 +1828,10 @@
                     "TITLE": "Оновлено правопорушення",
                     "DESCRIPTION": "Оновлено правопорушення '{name}' у категорії '{category}'"
                 }
+            },
+            "WIRETAP_NOTIFICATION": {
+                "TITLE": "Перехоплений дзвінок",
+                "CONTENT": "Перехоплений номер телефону {number} зараз у розмові."
             }
         },
         "AMBULANCE": {
@@ -1648,6 +1889,10 @@
                 "CREATE_BULLETIN": {
                     "TITLE": "Створено оголошення",
                     "DESCRIPTION": "Створено оголошення '{title}'"
+                },
+                "UPDATE_BULLETIN": {
+                    "TITLE": "Бюлетень оновлено",
+                    "DESCRIPTION": "Оголошення «{title}» було оновлено"
                 },
                 "DELETE_BULLETIN": {
                     "TITLE": "Видалено оголошення",
